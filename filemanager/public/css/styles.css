@@ -1,0 +1,10 @@
+
+.td-small {
+    max-width: 100px;
+}
+table {
+    margin: 30px 0 10px 0;
+}
+th {
+    max-width: 100px;
+}
